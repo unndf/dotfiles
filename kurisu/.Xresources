@@ -42,7 +42,7 @@
 ! Terminal Fonts
 urxvt.font: xft:DejaVuSansMono:size=12
 urxvt*.transparent: true
-urxvt*.shading: 15
+urxvt*.shading: 1 
 ! Scroll Bar
 urxvt.scrollBar : false
 
