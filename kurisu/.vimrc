@@ -22,11 +22,14 @@ set expandtab
 
 "tab = 3 spaces
 
-set shiftwidth=3
-set tabstop=3
+set shiftwidth=4
+set tabstop=4
 
 set ai 
 set si
+
+"total colors messes up with awesome??? set t_Co to 256
+set t_Co=256
 
 "cursor style to highlight line and column
 set cursorline 
